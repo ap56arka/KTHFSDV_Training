@@ -3,5 +3,5 @@
 - numpy
 - matplotlib
 - customtkinter
-#### All of them can be installed from pip or one can run the [Req](excercise2/requirements.py) with:
+#### All of them can be installed from pip or one can run the [requirements.py](excercise2/requirements.py) with:
 `python requirements.py`
