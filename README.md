@@ -8,6 +8,7 @@
 ![PLot_GUI_live](https://github.com/user-attachments/assets/d054d252-d08b-48a8-98cb-275de30a688f)
 ### Fit plot: Discard redundant data
 #### Usage: Choose the limit in X axis, it plots the nearest non-redundant data, starting from the "Start time" data
-https://github.com/user-attachments/assets/46aaec05-3f34-471b-ad51-a11221ec58db
+![Plot_GUI_fitplot](https://github.com/user-attachments/assets/d5955fc1-db30-4e3d-adf4-2858397f27b1)
+
 
 
