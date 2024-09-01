@@ -4,4 +4,6 @@
 - matplotlib
 - customtkinter
 #### All of them can be installed from pip or one can run the [requirements.py](exercise2/requirements.py) with:
-`python requirements.py`
+```
+python requirements.py
+```
