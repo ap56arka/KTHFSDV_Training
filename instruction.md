@@ -11,4 +11,4 @@ python requirements.py
 ```
 python Plot_GUI.py
 ```
-#### The functionality of the GUI can be better understood from the GIFs of [README.md](README.md)
+### The functionality of the GUI can be better understood from the GIFs of [README.md](README.md)
