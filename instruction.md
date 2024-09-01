@@ -7,3 +7,7 @@
 ```
 python requirements.py
 ```
+#### To run the [final solution](exercise2/Plot_GUI.py) one can run with python:
+```
+python Plot_GUI.py
+```
