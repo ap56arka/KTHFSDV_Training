@@ -1,3 +1,13 @@
+## Instructions to use solution of Exercise-1
+#### To run package1
+```
+rosrun package1 pub_kthfsdv.py
+```
+#### To run package2
+```
+rosrun package2 sub_kthfsdv.py
+```
+
 ## Instructions to use solution of Exercise-2
 #### It uses the following packages
 - numpy
